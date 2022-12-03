@@ -1,0 +1,14 @@
+<item drawable="alicloud_drive" />
+<item drawable="baidu_homework" />
+<item drawable="baidu_map" />
+<item drawable="baidu_netdisk" />
+<item drawable="baidu_tieba" />
+<item drawable="bank_abc" />
+<item drawable="golink" />
+<item drawable="hanks_note" />
+<item drawable="jingdong" />
+<item drawable="selfhelp_dictation" />
+<item drawable="selfhelp_screening" />
+<item drawable="unicom" />
+<item drawable="v2ray_ang" />
+<item drawable="weread" />
