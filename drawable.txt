@@ -7,8 +7,8 @@
     <item drawable="golink" />
     <item drawable="hanks_note" />
     <item drawable="jingdong" />
-    <item drawable="selfhelp_dictation" />
-    <item drawable="selfhelp_screening" />
+    <item drawable="selfhelpdictation" />
+    <item drawable="selfhelpscreening" />
     <item drawable="unicom" />
     <item drawable="v2ray_ang" />
     <item drawable="weread" />
