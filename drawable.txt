@@ -4,9 +4,12 @@
     <item drawable="baidu_netdisk" />
     <item drawable="baidu_tieba" />
     <item drawable="bank_abc" />
+    <item drawable="duorong_time_plan" />
     <item drawable="golink" />
     <item drawable="hanks_note" />
     <item drawable="jingdong" />
+    <item drawable="lang_easy_lexis" />
+    <item drawable="lang_easy_listen" />
     <item drawable="selfhelpdictation" />
     <item drawable="selfhelpscreening" />
     <item drawable="unicom" />
