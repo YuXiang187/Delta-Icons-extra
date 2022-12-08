@@ -1,9 +1,13 @@
+    <item component="ComponentInfo{cn.com.langeasy.EasyListen/cn.com.langeasy.LangEasyLrc.ui.SplashActivity}" drawable="lang_easy_listen" />
+    <item component="ComponentInfo{cn.com.langeasy.LangEasyLexis/cn.com.langeasy.LangEasyLexis.activity.SplashActivity}" drawable="lang_easy_lexis" />
+    <item component="ComponentInfo{cn.wsds.gamemaster/cn.wsds.gamemaster.ui.ActivityStart}" drawable="xy_game_booster" />
     <item component="ComponentInfo{com.alicloud.databox/com.alicloud.databox.launcher.splash.SplashActivity}" drawable="alicloud_drive" />
     <item component="ComponentInfo{com.android.bankabc/com.alipay.mobile.quinox.LauncherActivity}" drawable="bank_abc" />
     <item component="ComponentInfo{com.baidu.BaiduMap/com.baidu.baidumaps.WelcomeScreen}" drawable="baidu_map" />
     <item component="ComponentInfo{com.baidu.homework/com.baidu.homework.activity.init.InitActivity}" drawable="baidu_homework" />
     <item component="ComponentInfo{com.baidu.netdisk/com.baidu.netdisk.ui.DefaultMainActivity}" drawable="baidu_netdisk" />
     <item component="ComponentInfo{com.baidu.tieba/com.baidu.tieba.tblauncher.MainTabActivity}" drawable="baidu_tieba" />
+    <item component="ComponentInfo{com.duorong.smarttool/com.duorong.module_main.ui.loading.LoadingActivity}" drawable="duorong_time_plan" />
     <item component="ComponentInfo{com.golink.cntun/com.golink.cntun.ui.activity.SplashActivity}" drawable="golink" />
     <item component="ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.main.MainActivity}" drawable="jingdong" />
     <item component="ComponentInfo{com.sinovatech.unicom.ui/com.sinovatech.unicom.basic.ui.activity.WelcomeClient}" drawable="unicom" />
@@ -12,6 +16,3 @@
     <item component="ComponentInfo{com.yuxiang.selfhelpdictation/com.yuxiang.selfhelpdictation.MainActivity}" drawable="selfhelpdictation" />
     <item component="ComponentInfo{com.yuxiang.selfhelpscreening/com.yuxiang.selfhelpscreening.MainActivity}" drawable="selfhelpscreening" />
     <item component="ComponentInfo{xyz.hanks.note/xyz.hanks.note.ui.activity.MainActivity}" drawable="hanks_note" />
-    <item component="ComponentInfo{com.duorong.smarttool/com.duorong.module_main.ui.loading.LoadingActivity}" drawable="duorong_time_plan" />
-    <item component="ComponentInfo{cn.com.langeasy.LangEasyLexis/cn.com.langeasy.LangEasyLexis.activity.SplashActivity}" drawable="lang_easy_lexis" />
-    <item component="ComponentInfo{cn.com.langeasy.EasyListen/cn.com.langeasy.LangEasyLrc.ui.SplashActivity}" drawable="lang_easy_listen" />
