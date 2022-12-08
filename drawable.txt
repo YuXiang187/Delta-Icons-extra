@@ -15,3 +15,4 @@
     <item drawable="unicom" />
     <item drawable="v2ray_ang" />
     <item drawable="weread" />
+    <item drawable="xy_game_booster" />
