@@ -1,0 +1,2 @@
+com.baidu.netdisk/com.test.fdialog.fdialog.cptest.FActivity
+cn.wsds.gamemaster/tencent.frame.f
