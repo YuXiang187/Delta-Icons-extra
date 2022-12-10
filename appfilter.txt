@@ -10,9 +10,7 @@
     <item component="ComponentInfo{com.duorong.smarttool/com.duorong.module_main.ui.loading.LoadingActivity}" drawable="duorong_time_plan" />
     <item component="ComponentInfo{com.golink.cntun/com.golink.cntun.ui.activity.SplashActivity}" drawable="golink" />
     <item component="ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.main.MainActivity}" drawable="jingdong" />
-    <item component="ComponentInfo{com.sinovatech.unicom.ui/com.sinovatech.unicom.basic.ui.activity.WelcomeClient}" drawable="unicom" />
     <item component="ComponentInfo{com.tencent.weread/com.tencent.weread.LauncherActivity}" drawable="weread" />
-    <item component="ComponentInfo{com.v2ray.ang/com.v2ray.ang.ui.MainActivity}" drawable="v2ray_ang" />
     <item component="ComponentInfo{com.yuxiang.selfhelpdictation/com.yuxiang.selfhelpdictation.MainActivity}" drawable="selfhelpdictation" />
     <item component="ComponentInfo{com.yuxiang.selfhelpscreening/com.yuxiang.selfhelpscreening.MainActivity}" drawable="selfhelpscreening" />
     <item component="ComponentInfo{xyz.hanks.note/xyz.hanks.note.ui.activity.MainActivity}" drawable="hanks_note" />
