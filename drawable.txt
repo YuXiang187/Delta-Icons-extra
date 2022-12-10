@@ -12,7 +12,5 @@
     <item drawable="lang_easy_listen" />
     <item drawable="selfhelpdictation" />
     <item drawable="selfhelpscreening" />
-    <item drawable="unicom" />
-    <item drawable="v2ray_ang" />
     <item drawable="weread" />
     <item drawable="xy_game_booster" />
